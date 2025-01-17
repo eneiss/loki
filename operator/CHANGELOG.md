@@ -1,5 +1,18 @@
 ## Main
 
+## [0.7.2](https://github.com/grafana/loki/compare/operator/v0.7.1...operator/v0.7.2) (2025-01-17)
+
+
+### Features
+
+* **operator:** Update Loki operand to v3.3.2 ([#15800](https://github.com/grafana/loki/issues/15800)) ([fdec2c7](https://github.com/grafana/loki/commit/fdec2c78f9dc6509b2fc931b5304d56ae49f7c60))
+
+
+### Bug Fixes
+
+* **deps:** update module golang.org/x/net to v0.33.0 [security] ([#15490](https://github.com/grafana/loki/issues/15490)) ([7057028](https://github.com/grafana/loki/commit/70570285d3c33814a0f5b9196a4a49c8cba65653))
+* **operator:** Fix RBAC permission for poddisruptionbudgets ([#15107](https://github.com/grafana/loki/issues/15107)) ([f00d07a](https://github.com/grafana/loki/commit/f00d07a471a5b8c222ee4e2105942725934e93d1))
+
 ## [0.7.1](https://github.com/grafana/loki/compare/operator/v0.7.0...operator/v0.7.1) (2024-11-11)
 
 
